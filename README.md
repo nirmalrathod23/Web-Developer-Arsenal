@@ -20,6 +20,8 @@ Tools and useful resources for web developers in one single place.
   ### Tailwind
   - [Tailwind Components](https://merakiui.com/components/)
   - [Meraki UI](https://merakiui.com/components/)
+
+  - hii nirmal
   ### Javascript
    - [Swiper JS](https://swiperjs.com/)
 ## Back-end Resources
